@@ -1,0 +1,15 @@
+.pokemonsList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokemon {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemon img {
+  max-width: 100%;
+}

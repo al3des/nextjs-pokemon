@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# pokemon sprites
+/public/sprites/
